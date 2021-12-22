@@ -10,8 +10,9 @@
 > Gradle Project  
 > Dependencies : MySQL, Lombok, Spring Web, Spring Data Jpa
 
-### 당당 기능
-- 백엔드: JWT를 이용한 회원 등록, 회원 수정, 회원 삭제 API 개발
+### 담당 기능
+* 정다빈[backend]
+:로그인, 회원가입, 회원 수정, 회원탈퇴, 회원조회 API 개발
 
 *** 
 
